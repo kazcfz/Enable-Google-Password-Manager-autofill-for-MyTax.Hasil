@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         Enable Google Password Manager on MyTax Hasil
+// @name         Enable Password Manager on MyTax Hasil
 // @namespace    http://tampermonkey.net/
-// @version      1.0
-// @description  Enables Google Password Manager autofill on mytax.hasil.gov.my
+// @version      1.1
+// @description  Enables Password Manager autofill on mytax.hasil.gov.my
 // @author       kazcfz
 // @match        https://*.hasil.gov.my/*
 // @grant        none
